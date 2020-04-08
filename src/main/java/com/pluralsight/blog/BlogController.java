@@ -13,9 +13,4 @@ public class BlogController {
         modelMap.put("title", "Blog Post 1");
         return "home";
     }
-
-    public PostRepository(){
-
-    }
-
 }
